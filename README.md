@@ -118,13 +118,13 @@ The home page provides navigation to each individual project, or you can navigat
 ## Screenshots
 
 <div align="center">
-  <img src="./screenshots/background-changer.png" alt="Background Color Changer" width="400"/>
+  <img src="./bgchanger.png" alt="Background Color Changer" width="400"/>
   <p><em>Background Color Changer with color palette selection</em></p>
   
-  <img src="./screenshots/currency-converter.png" alt="Currency Converter" width="400"/>
+  <img src="./currencyConverter.png" alt="Currency Converter" width="400"/>
   <p><em>Currency Converter showing exchange rate between USD and EUR</em></p>
   
-  <img src="./screenshots/password-generator.png" alt="Password Generator" width="400"/>
+  <img src="./passwordGenerator.png" alt="Password Generator" width="400"/>
   <p><em>Password Generator with strength indicator</em></p>
 </div>
 
