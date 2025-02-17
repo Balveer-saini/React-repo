@@ -44,8 +44,6 @@ A clean, intuitive application that allows users to dynamically change the backg
 - Responsive design for all devices
 - Copy-to-clipboard functionality for color codes
 
-**[Live Demo](https://your-demo-link-here.com)** | **[Source Code](./background-color-changer)**
-
 ### Currency Converter
 
 A practical currency conversion application that provides real-time exchange rates:
@@ -61,8 +59,6 @@ A practical currency conversion application that provides real-time exchange rat
 - Response caching for performance optimization
 - Mobile-friendly design
 
-**[Live Demo](https://your-demo-link-here.com)** | **[Source Code](./currency-converter)**
-
 ### Password Generator
 
 A security-focused application that creates customizable strong passwords:
@@ -77,8 +73,6 @@ A security-focused application that creates customizable strong passwords:
 - Security best practices implementation
 - Accessibility considerations for all users
 - Visual feedback on user interactions
-
-**[Live Demo](https://your-demo-link-here.com)** | **[Source Code](./password-generator)**
 
 ## Technologies
 
